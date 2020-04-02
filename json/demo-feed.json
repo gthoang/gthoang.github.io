@@ -1,0 +1,23 @@
+[
+   {
+      "productImage":"https://gthoang.github.io/images/dco/burret.png",
+      "productName":"Burret",
+      "productOrigin":"USA",
+      "productPrice":"10",
+      "themeColor":"#00000a"
+   },
+   {
+      "productImage":"https://gthoang.github.io/images/dco/vial.png",
+      "productName":"Vial",
+      "productOrigin":"France",
+      "productPrice":"25",
+      "themeColor":"#9A0103"
+   },
+   {
+      "productImage":"https://gthoang.github.io/images/dco/evaporator-flasks.png",
+      "productName":"Evaporator Flasks",
+      "productOrigin":"Brazil",
+      "productPrice":"150",
+      "themeColor":"#7e808c"
+   }
+]
