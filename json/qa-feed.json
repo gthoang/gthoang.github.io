@@ -1,23 +1,20 @@
 [
    {
-      "productImage":"https://gthoang.github.io/images/dco/burret.png",
+      "productImage":"https://assets.fishersci.com/TFS-Assets/CCG/product-images/F185428~p.eps-650.jpg",
       "productName":"Lab Glassware",
       "productOrigin":"Burret",
-      "productPrice":"10",
-      "themeColor":"#00000a"
+      "productPrice":"10"
    },
    {
-      "productImage":"https://gthoang.github.io/images/dco/vial.png",
+      "productImage":"https://assets.fishersci.com/TFS-Assets/CCG/product-images/F43749~p.eps-650.jpg",
       "productName":"Sample Vials",
       "productOrigin":"Vial",
-      "productPrice":"25",
-      "themeColor":"#9A0103"
+      "productPrice":"25"
    },
    {
-      "productImage":"https://gthoang.github.io/images/dco/evaporator-flasks.png",
+      "productImage":"https://assets.fishersci.com/TFS-Assets/CCG/Heidolph-North-America/product-images/opplanet-heidolph-brinkmann-receiving-flask-1000-ml-coate-036301180.jpg-650.jpg",
       "productName":"Rotary Evaporators",
       "productOrigin":"Evaporator Flask",
-      "productPrice":"150",
-      "themeColor":"#7e808c"
+      "productPrice":"150"
    }
 ]
