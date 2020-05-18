@@ -1,0 +1,20 @@
+[
+   {
+      "productImage":"https://assets.fishersci.com/TFS-Assets/CCG/product-images/F185428~p.eps-650.jpg",
+      "productCategory":"Lab Glassware",
+      "productName":"Burret",
+      "productPrice":"10"
+   },
+   {
+      "productImage":"https://assets.fishersci.com/TFS-Assets/CCG/product-images/F43749~p.eps-650.jpg",
+      "productCategory":"Sample Vials",
+      "productName":"Vial",
+      "productPrice":"25"
+   },
+   {
+      "productImage":"https://assets.fishersci.com/TFS-Assets/CCG/Heidolph-North-America/product-images/opplanet-heidolph-brinkmann-receiving-flask-1000-ml-coate-036301180.jpg-650.jpg",
+      "productCategory":"Rotary Evaporators",
+      "productName":"Evaporator Flask",
+      "productPrice":"150"
+   }
+]
