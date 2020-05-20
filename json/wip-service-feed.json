@@ -7,20 +7,20 @@
       "productDescription":"Lightweight, breathable fabric keep workers cool and comfortable",
       "productPartNumber":"19057416D",
       "productName":"KleenGuard&trade; A10 Light-Duty Lab Coat",
-      "productListPrice":86.0,
-      "productOfferPrice":64.0,
+      "productListPrice":"86.0",
+      "productOfferPrice":"64.0",
       "productBrand":"Fisher Scientific"
    },
    {
       "productCountryCode":"US",
-      "productImage":null,
+      "productImage": "null",
       "productLanguage":"en",
       "productCategory":"Methoxyanilines",
-      "productDescription":null,
+      "productDescription":"null",
       "productPartNumber":"AAA102880B",
-      "productName":null,
-      "productListPrice":231.0,
-      "productOfferPrice":267.0,
+      "productName":"null",
+      "productListPrice":"231.0",
+      "productOfferPrice":"267.0",
       "productBrand":"Fisher Scientific"
    },
    {
@@ -31,8 +31,8 @@
       "productDescription":"",
       "productPartNumber":"AC102470050",
       "productName":"2-Acetylbenzoic acid, 99%, ACROS Organics&trade;",
-      "productListPrice":431.0,
-      "productOfferPrice":317.0,
+      "productListPrice":"431.0",
+      "productOfferPrice":"317.0",
       "productBrand":"Fisher Scientific"
    }
 ]
