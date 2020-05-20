@@ -1,0 +1,38 @@
+[
+   {
+      "productCountryCode":"US",
+      "productImage":"http://assets.fishersci.com/TFS-Assets/CCG/product-images/F53741~p.eps-250.jpg",
+      "productLanguage":"en",
+      "productCategory":"Single Use General Purpose Lab Coats$Lab Coats$Single Use General Purpose Lab Coats",
+      "productDescription":"Lightweight, breathable fabric keep workers cool and comfortable",
+      "productPartNumber":"19057416D",
+      "productName":"KleenGuard&trade; A10 Light-Duty Lab Coat",
+      "productListPrice":86.0,
+      "productOfferPrice":64.0,
+      "productBrand":"Fisher Scientific"
+   },
+   {
+      "productCountryCode":"US",
+      "productImage":null,
+      "productLanguage":"en",
+      "productCategory":"Methoxyanilines",
+      "productDescription":null,
+      "productPartNumber":"AAA102880B",
+      "productName":null,
+      "productListPrice":231.0,
+      "productOfferPrice":267.0,
+      "productBrand":"Fisher Scientific"
+   },
+   {
+      "productCountryCode":"US",
+      "productImage":"http://assets.fishersci.com/TFS-Assets/CCG/Chemical-Structures/chemical-structure-cas-577-56-0.jpg-250.jpg",
+      "productLanguage":"en",
+      "productCategory":"Aryl ketones$Organics Acetp to Acetyll$Carbonyl Compounds",
+      "productDescription":"",
+      "productPartNumber":"AC102470050",
+      "productName":"2-Acetylbenzoic acid, 99%, ACROS Organics&trade;",
+      "productListPrice":431.0,
+      "productOfferPrice":317.0,
+      "productBrand":"Fisher Scientific"
+   }
+]
