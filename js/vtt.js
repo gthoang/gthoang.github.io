@@ -1673,12 +1673,14 @@
     },
     parse: function (data) {
       var self = this;
+	  console.log("Inside Parser");
 
       // If there is no data then we won't decode it, but will just try to parse
       // whatever is in buffer already. This may occur in circumstances, for
       // example when flush() is called.
       if (data) {
         // Try to decode the data that we received.
+		console.log(data);
         self.buffer += self.decoder.decode(data, {stream: true});
       }
 
