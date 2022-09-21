@@ -1682,6 +1682,7 @@
         // Try to decode the data that we received.
 		console.log(data);
         self.buffer += self.decoder.decode(data, {stream: true});
+		console.log("passed buffer");
       }
 
       function collectNextLine() {
